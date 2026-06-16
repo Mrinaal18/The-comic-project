@@ -1,4 +1,4 @@
-"""
+ """
 Inkverse — main Streamlit application.
 
 A colorful, open-source collaborative storytelling platform where writers can:
